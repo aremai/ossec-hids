@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "OSSEC-Hids Threat Model",
+    "owner": "Theresa Meiksner",
+    "description": "OSSEC is a host-based intrusion detection system. The following threat model should show-case potential weaknesses in regards to the code-base and architecture of OSSEC."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "-"
+  }
+}
